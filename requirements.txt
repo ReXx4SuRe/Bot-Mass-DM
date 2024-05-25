@@ -1,0 +1,6 @@
+discord
+asyncio
+colorama
+datetime
+pystyle
+asyncio
